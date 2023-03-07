@@ -1,0 +1,84 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.cardHighlight{
+  min-height: 100%;
+}
+
+
+
+#submitBtn{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #245E58;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+#submitBtn:hover {background-color: #51A69A}
+
+#submitBtn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+
+#login{
+  display: inline-block;
+  padding: 9px 11px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #245E58;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 9px #999;
+}
+
+#login:hover {background-color: #51A69A}
+
+#login:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+#submitLogBtn{
+  display: inline-block;
+  padding: 9px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #245E58;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 9px #999;
+}
+
+#submitLogBtn:hover {background-color: #51A69A}
+
+#submitLogBtn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
